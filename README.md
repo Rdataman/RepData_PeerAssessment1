@@ -1,3 +1,8 @@
+I haven't annotated my code much. But the code chunks are so short   
+that they should be understandable.
+
+
+The following part is old and can be found in "instruction.pdf".
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
